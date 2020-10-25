@@ -1,4 +1,4 @@
-run_analysis <- function(directory = "Diretório R") {
+run_analysis <- function(directory) {
   
   library(dplyr)
   
