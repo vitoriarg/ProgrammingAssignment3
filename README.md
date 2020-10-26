@@ -1,8 +1,8 @@
 Getting and Cleaning Data
 
-I opted to organize the scirpt as a fucntion so it would be easier to reproduce it if necessary, accoding to the informed work directory containing the "UCI HAR Dataset" folder.
+I opted to organize the scirpt as a fucntion so it would be easier to reproduce it if necessary, accoding to the informed work directory.
 
-The script starts off by reading all files that will be used throughout the analysis, and attibuting them to appropriatly named objects. 
+The script starts off by reading all files that will be used throughout the analysis, and attibuting them to appropriately named objects. 
 
 It then formats the names on the "features" file to make them more readable and attributes them to their respective columns on the "test" and "train" datasets.
 
